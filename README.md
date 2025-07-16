@@ -9,4 +9,5 @@
 9. use window scroll and <Link>
 10. use https://clerk.com/
 11. created .env (required for deployment)
-12. 
+12. Deployed on render https://hotel-booking-v2p6.onrender.com/
+13. 
